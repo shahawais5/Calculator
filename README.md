@@ -16,5 +16,12 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 Splash Screen
+
+
 ![WhatsApp Image 2023-03-01 at 20 35 37](https://user-images.githubusercontent.com/120441699/222187360-47e592df-6978-481e-800c-6571c0db6691.jpg)
+
+
+
 Home Screen
+
+![WhatsApp Image 2023-03-01 at 20 35 37](https://user-images.githubusercontent.com/120441699/222187719-1d1f3d76-073f-4de3-977f-64ac3253ebce.jpg)
